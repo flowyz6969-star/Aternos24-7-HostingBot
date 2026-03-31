@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FriendsFromSchoolCHS.aternos.me:39681",
+    "ip": "FriendsFromSchoolCHS.aternos.me",
     "port": 39681,
     "version": "",
     "try-creative": false
